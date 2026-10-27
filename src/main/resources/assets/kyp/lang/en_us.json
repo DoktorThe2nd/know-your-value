@@ -1,0 +1,13 @@
+{
+  "itemGroup.kyp": "Example Mod Tab",
+  "block.kyp.example_block": "Example Block",
+  "item.kyp.example_item": "Example Item",
+
+  "kyp.configuration.title": "Know Your Price (KYP) Configs",
+  "kyp.configuration.section.kyp.common.toml": "Know Your Price (KYP) Configs",
+  "kyp.configuration.section.kyp.common.toml.title": "Know Your Price (KYP) Configs",
+  "kyp.configuration.items": "Item List",
+  "kyp.configuration.logDirtBlock": "Log Dirt Block",
+  "kyp.configuration.magicNumberIntroduction": "Magic Number Text",
+  "kyp.configuration.magicNumber": "Magic Number"
+}
